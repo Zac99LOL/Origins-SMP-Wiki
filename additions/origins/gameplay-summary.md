@@ -26,6 +26,6 @@ The possible Tags are as follows:
 {% endcolumn %}
 
 {% column width="50%" valign="middle" %}
-<div align="center" data-full-width="false" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p><strong>Example of Summary/Tagsbeing used in an origin.</strong></p></figcaption></figure></div>
+<div align="center" data-full-width="false" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p><strong>Example of Summary/Tags being used in an origin.</strong></p></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
