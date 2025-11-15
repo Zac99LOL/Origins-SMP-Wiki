@@ -10,3 +10,7 @@
 
 * [Obscurer](originscontent/obscurer.md)
 * [Shattered Orb of Origin](originscontent/shattered-orb.md)
+
+## Create
+
+* [Create](create/create.md)
