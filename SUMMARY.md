@@ -5,11 +5,8 @@
 ## Origins
 
 * [Page 1](origins/page-1.md)
-
-## OriginsContent
-
-* [Obscurer](originscontent/obscurer.md)
-* [Shattered Orb of Origin](originscontent/shattered-orb.md)
+* [Obscurer](origins/obscurer.md)
+* [Shattered Orb of Origin](origins/shattered-orb.md)
 
 ## Create
 
