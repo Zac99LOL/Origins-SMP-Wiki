@@ -12,7 +12,7 @@
 * [Achievement Items](additions/achievement-items.md)
 * Origins
   * [Information](additions/origins/information.md)
-  * [Gameplay Tags](additions/origins/gameplay-tags.md)
+  * [Gameplay Summary](additions/origins/gameplay-summary.md)
   * [🟢 Impact 1](additions/origins/impact-1.md)
   * [🟡 Impact 2](additions/origins/impact-2.md)
   * [🔴 Impact 3](additions/origins/impact-3.md)
