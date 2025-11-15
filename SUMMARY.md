@@ -2,11 +2,20 @@
 
 * [Main Page](README.md)
 
-## Origins
+## Additions
 
-* [Page 1](origins/page-1.md)
-* [Obscurer](origins/obscurer.md)
-* [Shattered Orb of Origin](origins/shattered-orb.md)
+* [Information](additions/page-1.md)
+* [Orb of Origin](additions/orb-of-origin.md)
+* [Shattered Orb of Origin](additions/shattered-orb.md)
+* [Obscurer](additions/obscurer.md)
+* [Origin Achievements](additions/origin-achievements.md)
+* [Achievement Items](additions/achievement-items.md)
+* Origins
+  * [Information](additions/origins/information.md)
+  * [Gameplay Tags](additions/origins/gameplay-tags.md)
+  * [🟢 Impact 1](additions/origins/impact-1.md)
+  * [🟡 Impact 2](additions/origins/impact-2.md)
+  * [🔴 Impact 3](additions/origins/impact-3.md)
 
 ## Create
 
