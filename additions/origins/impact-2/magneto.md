@@ -1,0 +1,6 @@
+---
+icon: recycle
+---
+
+# Magneto
+

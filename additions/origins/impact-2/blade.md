@@ -1,0 +1,6 @@
+---
+icon: sword
+---
+
+# Blade
+
