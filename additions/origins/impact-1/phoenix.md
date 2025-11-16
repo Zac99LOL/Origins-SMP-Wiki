@@ -10,8 +10,6 @@ Gameplay Impact: \[<mark style="color:$success;">⬤</mark>⬤⬤] Origin Diffic
 <mark style="color:$danger;">Support</mark>/<mark style="color:$primary;">Utility</mark>\
 This origin, although extremely simple, can survive even death itself. Granting itself a second life and being able to ignite enemies with ease, while also being immune to lava itself. However, this origin can't use totems on it's own and is weakened when in contact with water.
 
-*
-
 <details>
 
 <summary>From The Ashes</summary>
