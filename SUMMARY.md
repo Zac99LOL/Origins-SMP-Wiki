@@ -25,6 +25,7 @@
     * [Time Keeper](additions/origins/impact-1/time-keeper.md)
     * [Winter Soldier](additions/origins/impact-1/winter-soldier.md)
     * [Gabriella Gravitas](additions/origins/impact-1/gabriella-gravitas.md)
+    * [Mechanic](additions/origins/impact-1/mechanic.md)
   * [🟡 Impact 2](additions/origins/impact-2/README.md)
     * [Marksman](additions/origins/impact-2/marksman.md)
     * [Renegaide](additions/origins/impact-2/renegaide.md)
