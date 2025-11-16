@@ -1,8 +1,7 @@
 ---
-description: The history of all changes made to the SMP and it's origins.
+description: In this category, you will find a history of the changes made to the SMP
 icon: gear-complex
 ---
 
 # Changelog
 
-In this category, you will find every change to the server, since it's start.

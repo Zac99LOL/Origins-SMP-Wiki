@@ -1,5 +1,5 @@
 ---
-icon: square-down
+icon: arrow-down
 ---
 
 # Daniel Density

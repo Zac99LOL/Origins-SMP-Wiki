@@ -12,7 +12,7 @@
 * Origins
   * [Information](additions/origins/information.md)
   * [Changelog](additions/origins/changelog/README.md)
-    * [Server Start](additions/origins/changelog/server-start.md)
+    * [v2.0 (Release)](additions/origins/changelog/v2.0-release.md)
   * [Gameplay Summary](additions/origins/gameplay-summary.md)
   * [🟢 Impact 1](additions/origins/impact-1/README.md)
     * [Delusion](additions/origins/impact-1/delusion.md)

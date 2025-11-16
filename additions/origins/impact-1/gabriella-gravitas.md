@@ -1,5 +1,5 @@
 ---
-icon: arrow-up-long
+icon: arrow-up
 ---
 
 # Gabriella Gravitas
