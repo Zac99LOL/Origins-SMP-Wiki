@@ -8,7 +8,7 @@ icon: diamond-exclamation
 Are disabled outside of respawning the Ender Dragon.
 
 **Beds/Respawn Anchors**\
-Deal 60% reduced damage.
+Deal 50% reduced player damage.
 
 **Totems of Undying**\
 Have a 20% chance to fail
