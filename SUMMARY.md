@@ -2,6 +2,12 @@
 
 * [Main Page](README.md)
 
+## Changes
+
+* [Weapons](changes/weapons.md)
+* [Enchantments](changes/enchantments.md)
+* [Other Changes](changes/other-changes.md)
+
 ## Additions
 
 * [Orb of Origin](additions/orb-of-origin.md)

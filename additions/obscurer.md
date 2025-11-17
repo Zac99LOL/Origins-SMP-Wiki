@@ -10,4 +10,4 @@ The Obscurer can be consumed to randomize your origin icon until death or origin
 
 ### Crafting
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)

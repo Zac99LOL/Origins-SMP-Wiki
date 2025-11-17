@@ -11,5 +11,3 @@ The Enchanted Book Bundle can be right clicked to unveil a random boosted enchan
 
 ### Crafting
 
-![](<../.gitbook/assets/image (6).png>)
-
