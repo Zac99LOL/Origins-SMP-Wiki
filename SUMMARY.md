@@ -16,7 +16,6 @@
 * [Enchanted Book Bundles](additions/obscurer-1.md)
 * [Origin Achievements](additions/origin-achievements.md)
 * [Achievement Items](additions/achievement-items.md)
-* [TODO LIST!](additions/todo-list.md)
 * Origins
   * [Information](additions/origins/information.md)
   * [Changelog](additions/origins/changelog/README.md)
