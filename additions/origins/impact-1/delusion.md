@@ -41,7 +41,6 @@ This origin is better at literally everything. It takes less damage, has more he
   * Elytra Speed
   * Natural Regeneration
   * Repair Cost (-20%)
-  * Totem Fail Chance (-20%)
 
 </details>
 
@@ -50,5 +49,7 @@ This origin is better at literally everything. It takes less damage, has more he
 <summary>This will make you rage</summary>
 
 1/100 Chance to instantly die when taking damage. (1s cooldown, Totems Still Work)
+
+* To balance this out, totems cannot fail as this origin.
 
 </details>
