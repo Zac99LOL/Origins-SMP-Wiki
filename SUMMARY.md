@@ -13,7 +13,7 @@
 * [Orb of Origin](additions/orb-of-origin.md)
 * [Shattered Orb of Origin](additions/shattered-orb.md)
 * [Obscurer](additions/obscurer.md)
-* [Enchanted Book Bundles](additions/obscurer-1.md)
+* [Enchanted Book Bundle](additions/obscurer-1.md)
 * [Origin Achievements](additions/origin-achievements.md)
 * [Achievement Items](additions/achievement-items.md)
 * Origins
