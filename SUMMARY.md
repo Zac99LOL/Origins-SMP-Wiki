@@ -33,7 +33,7 @@
     * [Mechanic](additions/origins/impact-1/mechanic.md)
   * [🟡 Impact 2](additions/origins/impact-2/README.md)
     * [Marksman](additions/origins/impact-2/marksman.md)
-    * [Renegaide](additions/origins/impact-2/renegaide.md)
+    * [Renegade](additions/origins/impact-2/renegade.md)
     * [Helldiver](additions/origins/impact-2/helldiver.md)
     * [Human Torch](additions/origins/impact-2/human-torch.md)
     * [Lifeweaver](additions/origins/impact-2/lifeweaver.md)
@@ -55,6 +55,7 @@
     * [Plaguebringer](additions/origins/impact-3/plaguebringer.md)
     * [Warden](additions/origins/impact-3/warden.md)
     * [XE-13 Phobos](additions/origins/impact-3/xe-13-phobos.md)
+  * [Copy of Information](additions/origins/copy-of-information.md)
   * Create Mod
     * [Create](additions/origins/create-mod/create.md)
 
