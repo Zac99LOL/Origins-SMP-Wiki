@@ -9,7 +9,7 @@ The Enchanted Book Bundle can be right clicked to unveil a random boosted enchan
 
 ### Obtaining
 
-![](../.gitbook/assets/image_2025-11-18_191254526.png)
+![](<../.gitbook/assets/image (9).png>)
 
 ### Usage
 
