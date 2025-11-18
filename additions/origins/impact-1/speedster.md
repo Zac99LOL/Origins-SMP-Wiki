@@ -1,4 +1,7 @@
 ---
+description: >-
+  Wielding the power of lightning. This little zoomer is capable of going
+  ridiculous speeds. Channelling electricity into every step.
 icon: bolt-lightning
 ---
 
@@ -13,48 +16,77 @@ This origin specializes in speed and agility. Being able to dash and teleport ar
 
 <details>
 
-<summary>From The Ashes</summary>
+<summary>Electric Dash</summary>
 
-Instead of dying, go to full health and gain regeneration and resistance for 20 seconds. (10 Minute Cooldown, Does not activate when sneaking)
+Dash forward while standing on a block, using up 2 electrical charges and damaging all entities you dash through for 10 damage. Dashing while using Overloaded Frenzy causes the Frenzy to cancel.
 
-</details>
-
-<details>
-
-<summary>Hot Hands</summary>
-
-Due to the scorching temperature of your body, all attacks set entities on fire for 5s.
+* If you deal damage to an entity with your dash, regain 1 electrical charge.
 
 </details>
 
 <details>
 
-<summary>Fire Immunity</summary>
+<summary>Overloaded Frenzy</summary>
 
-
-
-</details>
-
-<details>
-
-<summary>Hot-Footed</summary>
-
-You are immune to all kinds of fire damage and cannot be set on fire.
+When clicking your secondary, toggle an ability that causes you to rapidly attack a random entity within 5 blocks 5 times per second. Teleporting around and between any nearby entities randomly and draining 1 electric charge per/s when active. (After each teleport deal 2.5 damage to the nearest entity within 5 blocks.)
 
 </details>
 
 <details>
 
-<summary>Unholy</summary>
+<summary>Positively Charged</summary>
 
-You are unable to use totems of undying, as they slip between your fingers whenever you try to hold them.
+Your abilities require the use of electrical charges, of which you have 7 of, each taking 4 seconds to regenerate when not using abilities.
 
 </details>
 
 <details>
 
-<summary>Extinguished</summary>
+<summary>Supercharged Speed</summary>
 
-You take 20% more damage, deal 20% less damage, and are slowed by 20% while in water.
+You move 50% faster naturally.
+
+</details>
+
+<details>
+
+<summary>Energized Steps</summary>
+
+You can walk up a 1 block high ledge without having to jump.
+
+</details>
+
+<details>
+
+<summary>Lightning-fast Fingers</summary>
+
+Due to your reflexes and energy, you can attack 35% faster.
+
+</details>
+
+<details>
+
+<summary>Electrical Aura</summary>
+
+Due to your electrical nature, you have a swirl of energy around you at all times.\
+(This effect is cosmetic)
+
+</details>
+
+<details>
+
+<summary>Outrageous Appetite</summary>
+
+To sustain your incredible speed, you hunger drain is multiplied by 2x.
+
+</details>
+
+<details>
+
+<summary>Hydro-Conductivity</summary>
+
+While in contact with water or rain, your electrical abilities become scrambled, removing your speed boost for walking/attack and increasing the time between electrical charges replenishing by 2x. As well as making you take 25% more damage and deal 25% less melee damage.
+
+* While it is thunderstorming all lightning strikes are redirected to you, in addition to lightning damage taken being increased by 10x
 
 </details>
