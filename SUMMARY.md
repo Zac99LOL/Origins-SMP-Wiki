@@ -55,7 +55,6 @@
     * [Plaguebringer](additions/origins/impact-3/plaguebringer.md)
     * [Warden](additions/origins/impact-3/warden.md)
     * [XE-13 Phobos](additions/origins/impact-3/xe-13-phobos.md)
-  * [Copy of Information](additions/origins/copy-of-information.md)
   * Create Mod
     * [Create](additions/origins/create-mod/create.md)
 
