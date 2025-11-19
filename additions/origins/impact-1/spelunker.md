@@ -89,9 +89,9 @@ All pickaxes deal +20% damage per effiency level.
 By applying certain items to a pickaxe in your inventory with right click, you can customize the pickaxes appearance and sounds.
 
 * The custom pickaxes (and items required to get the textures) are as follows:\
-  <mark style="color:blue;">- Toothpick - Cyan Dye</mark>\
-  <mark style="color:yellow;">- Electro-Charged Pick - Yellow Dye</mark>\
-  <mark style="color:purple;">- Gemstone Drill - Purple Dye</mark>
+  <mark style="color:blue;">Toothpick - Cyan Dye</mark>\
+  <mark style="color:yellow;">Electro-Charged Pick - Yellow Dye</mark>\
+  <mark style="color:purple;">Gemstone Drill - Purple Dye</mark>
 
 </details>
 
