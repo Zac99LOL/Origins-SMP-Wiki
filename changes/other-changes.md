@@ -22,3 +22,8 @@ Have a 30s Cooldown
 **Invisibility**\
 Now also hides equipped armor.
 
+**Eye of Ender**\
+Recipe Changed
+
+![](<../.gitbook/assets/image (10).png>)
+
