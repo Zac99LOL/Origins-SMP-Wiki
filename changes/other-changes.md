@@ -27,3 +27,6 @@ Recipe Changed
 
 ![](<../.gitbook/assets/image (10).png>)
 
+**Target Dummies**\
+Lifesteal abilities disabled on them. (All other abilities work though)
+
