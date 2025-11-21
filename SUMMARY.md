@@ -10,6 +10,7 @@
 
 ## Additions
 
+* [Chat + Map](additions/chat-+-map.md)
 * [Orb of Origin](additions/orb-of-origin.md)
 * [Shattered Orb of Origin](additions/shattered-orb.md)
 * [Obscurer](additions/obscurer.md)
