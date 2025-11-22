@@ -11,7 +11,7 @@ The Enchanted Book Bundle can be right clicked to unveil a random boosted enchan
 
 It can be crafted with 4 Shattered Orbs of Origin and 1 Random Enchanted Book
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 ### Usage
 
