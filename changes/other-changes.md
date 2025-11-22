@@ -25,7 +25,7 @@ Now also hides equipped armor.
 **Eye of Ender**\
 Recipe Changed
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 **Target Dummies**\
 Lifesteal abilities disabled on them. (All other abilities work though)
