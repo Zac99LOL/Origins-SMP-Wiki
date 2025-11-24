@@ -20,6 +20,7 @@
 * Origins
   * [Information](additions/origins/information.md)
   * [Changelog](additions/origins/changelog/README.md)
+    * [v2.0.3 (Origin Changes and QOL)](additions/origins/changelog/v2.0.3-origin-changes-and-qol.md)
     * [v2.0.2 (Minor Patch)](additions/origins/changelog/v2.0.2-minor-patch.md)
     * [v2.0.1 (Bugfix + Ultrakill Update)](additions/origins/changelog/v2.0.1-bugfix-+-ultrakill-update.md)
     * [v2.0 (Release)](additions/origins/changelog/v2.0-release.md)
