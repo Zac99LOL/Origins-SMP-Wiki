@@ -17,9 +17,10 @@
 * [Enchanted Book Bundle](additions/obscurer-1.md)
 * [Origin Achievements](additions/origin-achievements.md)
 * [Achievement Items](additions/achievement-items.md)
-* Origins
+* [Origins](additions/origins/README.md)
   * [Information](additions/origins/information.md)
   * [Changelog](additions/origins/changelog/README.md)
+    * [v2.0.6 (Bugfixes)](additions/origins/changelog/v2.0.6-bugfixes.md)
     * [v2.0.5 (Chunkloaders)](additions/origins/changelog/v2.0.5-chunkloaders.md)
     * [v2.0.4 (Several Recipe Changes)](additions/origins/changelog/v2.0.4-several-recipe-changes.md)
     * [v2.0.3 (Origin Changes and QOL)](additions/origins/changelog/v2.0.3-origin-changes-and-qol.md)
@@ -61,7 +62,7 @@
     * [Plaguebringer](additions/origins/impact-3/plaguebringer.md)
     * [Warden](additions/origins/impact-3/warden.md)
     * [XE-13 Phobos](additions/origins/impact-3/xe-13-phobos.md)
-  * Create Mod
+  * [Create Mod](additions/origins/create-mod/README.md)
     * [Create](additions/origins/create-mod/create.md)
 
 ***
