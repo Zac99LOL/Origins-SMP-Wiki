@@ -24,6 +24,7 @@
 
 * [Information](origins/information.md)
 * [Changelog](origins/changelog/README.md)
+  * [v2.0.8 (recipes for jamie)](origins/changelog/v2.0.8-recipes-for-jamie.md)
   * [v2.0.7 (i hate time keeper)](origins/changelog/v2.0.7-i-hate-time-keeper.md)
   * [v2.0.6 (Bugfixes)](origins/changelog/v2.0.6-bugfixes.md)
   * [v2.0.5 (Chunkloaders)](origins/changelog/v2.0.5-chunkloaders.md)
