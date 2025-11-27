@@ -20,7 +20,7 @@
 * [Origins](additions/origins/README.md)
   * [Information](additions/origins/information.md)
   * [Changelog](additions/origins/changelog/README.md)
-    * [v2.0.6 (Bugfixes)](additions/origins/changelog/v2.0.6-bugfixes.md)
+    * [v2.0.7 (i hate timekeeper)](additions/origins/changelog/v2.0.7-i-hate-timekeeper.md)
     * [v2.0.5 (Chunkloaders)](additions/origins/changelog/v2.0.5-chunkloaders.md)
     * [v2.0.4 (Several Recipe Changes)](additions/origins/changelog/v2.0.4-several-recipe-changes.md)
     * [v2.0.3 (Origin Changes and QOL)](additions/origins/changelog/v2.0.3-origin-changes-and-qol.md)
