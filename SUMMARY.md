@@ -25,6 +25,7 @@
 * [Information](origins/information.md)
 * [Changelog](origins/changelog/README.md)
   * [v2.0.7 (i hate timekeeper)](origins/changelog/v2.0.7-i-hate-timekeeper.md)
+  * [v2.0.6 (Bugfixes)](origins/changelog/v2.0.6-bugfixes.md)
   * [v2.0.5 (Chunkloaders)](origins/changelog/v2.0.5-chunkloaders.md)
   * [v2.0.4 (Several Recipe Changes)](origins/changelog/v2.0.4-several-recipe-changes.md)
   * [v2.0.3 (Origin Changes and QOL)](origins/changelog/v2.0.3-origin-changes-and-qol.md)
