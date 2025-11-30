@@ -24,6 +24,7 @@
 
 * [Information](origins/information.md)
 * [Changelog](origins/changelog/README.md)
+  * [v2.0.10 (create mod config changes)](origins/changelog/v2.0.10-create-mod-config-changes.md)
   * [v2.0.9 (new recipes)](origins/changelog/v2.0.9-new-recipes.md)
   * [v2.0.8 (recipes for jamie)](origins/changelog/v2.0.8-recipes-for-jamie.md)
   * [v2.0.7 (i hate time keeper)](origins/changelog/v2.0.7-i-hate-time-keeper.md)
